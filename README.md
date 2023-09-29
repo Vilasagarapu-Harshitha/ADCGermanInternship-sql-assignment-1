@@ -1,0 +1,1 @@
+# ADCGermanInternship-sql-assignment-1
